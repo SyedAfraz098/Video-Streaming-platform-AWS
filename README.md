@@ -254,17 +254,6 @@ sudo python3.11 server.py
 - ✅ IAM Role authentication
 - ✅ Production-style AWS architecture
 
----
 
-# 📸 Demo
-
-Add screenshots or a GIF here showing:
-
-- Uploading a video
-- Processing status
-- Generated HLS output
-- Final playback
-
----
 
 ## ⭐ If you found this project helpful, consider giving it a Star!
