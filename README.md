@@ -34,7 +34,9 @@ Step 4: Start the Worker
 Run the script. It will print "Worker started. Listening…" and hang there waiting for SQS messages. Leave this tab open!
 
 
-Web Server 
+Web Server
+
+
 Step 1: Connect to the Web-Server
 
 Step 2: Install Dependencies
